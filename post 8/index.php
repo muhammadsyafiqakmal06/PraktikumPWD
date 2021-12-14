@@ -28,5 +28,7 @@ href='delete.php?nim=$user_data[nim]'>Delete</a></td></tr>";
 }
 ?>
 </table>
+<br>
+<button><a href="pdf.php" style="text-decoration: none;">Cetak Data</a></button>
 </body>
 </html>
